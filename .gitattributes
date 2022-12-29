@@ -1,4 +1,4 @@
-*.cython linguist-detectable=false
-*.c linguist-detectable=false
-*.c++ linguist-detectable=false
-*.fortarn linguist-detectable=false
+*.Cython linguist-detectable=false
+*.C linguist-detectable=false
+*.C++ linguist-detectable=false
+*.Fortran linguist-detectable=false

@@ -1,4 +1,3 @@
-  
 **Packages and Libraries used**
 1. Python
 
@@ -18,16 +17,23 @@
 
 **Execute**
 
-  
-
 1. Install the Python 3.0.0 packages or higer.
+2. Clone the repository in your system.
+`git clone https://github.com/sawantvikram/House-Price-Prediction.git`
 
-2. Clone the repo in your system.
+3. Open the project directory.
+`cd House-Price-Prediction`
 
-3. Open main & execute server.py using
-    
+4. Activate the virtual environment.
+for Windows,
+`\Scripts\activate`
+for Linux,
+`source ./bin/activate`
 
-    `python3 server.py`
+5. Run the server.py
+`python3 server.py`
 
-4. After running server.py open /client/app.html in any browser.
+6. Copy and paste the link below in any browser.
+`http://127.0.0.1:5000`
+
 

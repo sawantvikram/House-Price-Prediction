@@ -40,3 +40,5 @@
 6. Copy and paste the link below in any browser.
 
        http://127.0.0.1:5000
+       
+**If you like the project then please give the star**

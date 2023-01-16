@@ -13,7 +13,9 @@
 
 7. HTML/CSS/Javascript for UI
 
-  
+**Reqirnments**
+  1. Python
+  2. pip
 
 **Execute**
 

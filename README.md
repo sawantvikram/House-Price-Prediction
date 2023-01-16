@@ -19,7 +19,7 @@
 
 **Execute**
 
-1. Install the Python 3.0.0 packages or higer.
+1. Install the Python 3.0.0 packages or higher.
 2. Clone the repository in your system.
 
        git clone https://github.com/sawantvikram/House-Price-Prediction.git

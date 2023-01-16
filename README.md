@@ -13,7 +13,7 @@
 
 7. HTML/CSS/Javascript for UI
 
-**Reqirnments**
+**Requirements**
   1. Python
   2. pip
 

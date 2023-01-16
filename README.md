@@ -28,19 +28,14 @@
  
         cd House-Price-Prediction
 
-4. Activate the virtual environment.
-
-      a.for Windows,
+4. Install required packages.
       
-         \Scripts\activate
-
-      b.for Linux,
-      
-          source ./bin/activate
+         pip3 install -r requirements.txt
 
 5. Run the server.py
 
        python3 server.py
+            
 
 6. Copy and paste the link below in any browser.
 

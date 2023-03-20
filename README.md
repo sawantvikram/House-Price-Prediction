@@ -41,4 +41,4 @@
 
        http://127.0.0.1:5000
        
-**If you like the project then please give the star**
+**If you like the project then please give the star.**
